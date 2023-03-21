@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Control\Array\bin\Debug\net7.0\Array.exe
+C:\Users\Admin\Desktop\Control\Array\bin\Debug\net7.0\Array.deps.json
+C:\Users\Admin\Desktop\Control\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Users\Admin\Desktop\Control\Array\bin\Debug\net7.0\Array.dll
+C:\Users\Admin\Desktop\Control\Array\bin\Debug\net7.0\Array.pdb
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.dll
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.pdb
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Control\Array\obj\Debug\net7.0\ref\Array.dll
